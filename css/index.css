@@ -14,7 +14,7 @@ font-family: "Permanent Marker";
 font-style: normal;
 font-weight: 400;
 src: local("Permanent Marker Regular"), local("PermanentMarker-Regular"),
-    url(https://cdn.jaswine.com/commons/permanent.ttf)
+    url(https://cdn.jaswine.com/commons/fonts/permanent.ttf)
     format("truetype");
 }
 /*!* latin *!*/
@@ -31,7 +31,7 @@ font-family: 'Noto Sans TC';
 font-style: normal;
 font-weight: 400;
 src: local('Noto Sans TC Regular'), local('NotoSansTC-Regular'), 
-url(https://cdn.jaswine.com/commons/noto.otf)
+url(https://cdn.jaswine.com/commons/fonts/noto.otf)
 format('opentype');
 }
 
